@@ -182,7 +182,9 @@ results_summary.csv
 ├── goal_based_portfolio.py
 ├── Assignment_V_Summary.docx
 ├── Group details.txt
+├── requirements.txt
 └── README.md
+
 ```
 
 ### Main script
