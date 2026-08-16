@@ -1,0 +1,13 @@
+Group details and Contributions:
+
+This assignment was completed by Group 18 as a collaborative effort. 
+
+Group members:                        Roll.no.                          Percentage of contribution
+------------------------------------------------------------------------------------------------------
+Debadatta Panda                      (MA25M009)                               20 %
+Adarsha Mandal                       (MA25M001)                               20 %
+Lucas Haobam                         (MA25M015)                               20 %
+Ajay Kumar                           (MA25M003)                               20 %
+Jyoti Ranjan Sethi                   (MA25M013)                               20 %
+
+Everyone contributed equally to the data analysis, portfolio modeling, implementation in Python, interpretation of results, and preparation of the final report.
