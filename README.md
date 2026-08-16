@@ -1,4 +1,4 @@
-# Goal-Based Portfolio Optimisation
+# Goal-Based Portfolio Optimization
 
 A quantitative portfolio optimisation framework that evaluates how **portfolio composition and the timing of financial goals** affect the probability of achieving a long-term wealth target.
 
